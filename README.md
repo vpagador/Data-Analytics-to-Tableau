@@ -6,9 +6,8 @@
 ![image](https://github.com/vpagador/Data-Analytics-to-Tableau/assets/80417833/2eae70f6-7c3d-445b-8491-ada530486c15)
 
 #### What are the highest average distance travelled by Airline?
-![image](https://github.com/vpagador/Data-Analytics-to-Tableau/assets/80417833/ccebc047-7526-4802-9133-16b1f12285f8)
+![image](https://github.com/vpagador/Data-Analytics-to-Tableau/assets/80417833/0a1c72b0-7ec0-46be-9175-8a8f0a8e7cd3)
 
-![image](https://github.com/vpagador/Data-Analytics-to-Tableau/assets/80417833/1c456be2-fea0-49e5-8154-ab30383ada32)
 
 
 #### What are the most used flight numbers?
